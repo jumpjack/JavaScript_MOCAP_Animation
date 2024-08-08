@@ -1,6 +1,8 @@
 # JavaScript_MOCAP_Animation
 Javascript parsing and stick figure browser animation for ASF/AMC MOCAP files. Final project for CS 290: 3D Digital Geometry at Duke University Spring 2016. 
 
+Demo: https://jumpjack.github.io/JavaScript_MOCAP_Animation
+
 Project contributers: Nina Sun, Brandon Choi, and Cosi Goldstein
 
 To run the project in the browser, open up index.html. This is our intro page with a brief introduction to our project. You will then be guided to animation.html where our project actually lives. All the files should remain where they are as to not change paths. Doing so will cause errors in our html code because of the way CSS and Javascript files are imported.
